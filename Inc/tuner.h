@@ -13,7 +13,7 @@ uint16_t dsp_query2(uint8_t);
 void dsp_write1(uint8_t, uint8_t);
 void dsp_write6(uint32_t subaddr, uint32_t data);
 void WaitEasyReady(void);
-void dsp_write_data(const uint8_t*);
+void dsp_write_data(const uint8_t *);
 void BootDirana3(void);
 
 void SetVolume(uint8_t);
