@@ -12,7 +12,9 @@
 
 This repository contains source code for the 'NXP SAF775X DIY' public project which supports SAF7751/7753/7754/7755/7756/7758 204/205/207/208 variants,
 Demostration keycodes for several SAF775X variants are contained in the source code that's why this project was not fully open-source but uses a request-and-give source code mode.
+
 It's now four years after initial release. A lot of people already have the full source code. Considering the demo-keycode does not pose any threat to business interest of NXP since it's provided by NXP free of charge for evaluation purpose.
+
 Besided, I don't have enough time to talk to everyone interested in. So I decide to make this source code repository publicly availble.
 If you have any question concerning the usage of this chip or other matters, please let my know. You can directly create a new issure in this repository. All issues would be inspected in detail. Pull requests are welcodem.
 
