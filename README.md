@@ -18,4 +18,3 @@ It's now four years after initial release. A lot of people already have the full
 Besides, I don't have enough time to talk to everyone interested in. So I decide to make this source code repository publicly availble.
 If you have any question concerning the usage of this chip or other matters, please let my know. You can directly create a new issure in this repository. All issues would be inspected in detail. Pull requests are welcodem.
 
-Any other questions please send emails to: eggplant886@gmail.com or use Telegram https://t.me/rayc027
