@@ -8,7 +8,6 @@
 此仓库内程序适用于SAF7751/7753/7754/7755/7758 204/205/207/208。
 
 关于项目任何疑问或者合理需求，可以直接在本项目中发表Issue，欢迎提交PR
-有其他内容需要交流，可发邮件：eggplant886@gmail.com zhangrui16@nuaa.edu.cn
 
 This repository contains source code for the 'NXP SAF775X DIY' public project which supports SAF7751/7753/7754/7755/7756/7758 204/205/207/208 variants,
 Demostration keycodes for several SAF775X variants are contained in the source code that's why this project was not fully open-source but uses a request-and-give source code mode.
